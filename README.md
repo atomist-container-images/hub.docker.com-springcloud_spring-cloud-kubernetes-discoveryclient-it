@@ -1,0 +1,1 @@
+# hub.docker.com-springcloud_spring-cloud-kubernetes-discoveryclient-it
